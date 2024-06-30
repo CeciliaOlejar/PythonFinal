@@ -55,3 +55,5 @@ Instalar un paquete: pip install nombre_del_paquete
 Actualizar un paquete: pip install –upgrade nombre_del_paquete
 Desinstalar un paquete: pip uninstall nombre_del_paquete
 Listar paquetes instalados: pip list 
+
+12. https://github.com/CeciliaOlejar/PythonFinal.git
